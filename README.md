@@ -4,25 +4,20 @@ proses transaksi dan pendataan penjualan. Proyek ini dibangun menggunakan Java N
 kemudahan penggunaan bagi petugas kasir.
 
     Tampilan Aplikasinya:
-Halaman Login
+Halaman Login - Akses masuk petugas kasir
 ![Login Page](Screenshot%20(1493).png)
-*Akses masuk petugas kasir.*
 
-Menu Utama & Pemesanan
+Menu Utama & Pemesanan - Tampilan pemilihan menu kopi dan input jumlah pesanan
 ![Halaman Pemesanan](Screenshot%20(1494).png)
-*Tampilan pemilihan menu kopi dan input jumlah pesanan.*
 
-Menunggu Konfirmasi Pembayaran
+Menunggu Konfirmasi Pembayaran - Daftar transaksi yang sedang menunggu penyelesaian pembayaran
 ![Konfirmasi Pembayaran](Screenshot%20(1495).png)
-*Daftar transaksi yang sedang menunggu penyelesaian pembayaran.*
 
-Riwayat Transaksi
+Riwayat Transaksi - Laporan data seluruh pesanan yang telah dibayar
 ![Riwayat Pembayaran](Screenshot%20(1496).png)
-*Laporan data seluruh pesanan yang telah dibayar.*
 
-Pengelolaan Database
+Pengelolaan Database - Tampilan pengelolaan data transaksi
 ![Struktur Database](Screenshot%20(1497).png)
-*Tampilan pengelolaan data transaksi.*
 
     Fitur
 - Sistem Otentikasi
