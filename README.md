@@ -3,6 +3,27 @@ Sistem Manajemen kedai kopi ini adalah aplikasi berbasis desktop yang dikembangk
 proses transaksi dan pendataan penjualan. Proyek ini dibangun menggunakan Java NetBeans dengan fokus pada
 kemudahan penggunaan bagi petugas kasir.
 
+    Tampilan Aplikasinya:
+Halaman Login
+![Login Page](Screenshot%20(1493).png)
+*Akses masuk petugas kasir.*
+
+Menu Utama & Pemesanan
+![Halaman Pemesanan](Screenshot%20(1494).png)
+*Tampilan pemilihan menu kopi dan input jumlah pesanan.*
+
+Menunggu Konfirmasi Pembayaran
+![Konfirmasi Pembayaran](Screenshot%20(1495).png)
+*Daftar transaksi yang sedang menunggu penyelesaian pembayaran.*
+
+Riwayat Transaksi
+![Riwayat Pembayaran](Screenshot%20(1496).png)
+*Laporan data seluruh pesanan yang telah dibayar.*
+
+Pengelolaan Database
+![Struktur Database](Screenshot%20(1497).png)
+*Tampilan pengelolaan data transaksi.*
+
     Fitur
 - Sistem Otentikasi
 Fitur Login untuk memastikan keamanan akses aplikasi.
@@ -38,19 +59,5 @@ untuk masuk ke dalam sistem, gunakan akun ini:
 - AplikasiKopi.java: Form utama untuk input pemesanan dan transaksi.
 - Koneksidatabase.java: Pengaturan koneksi ke database SQLite.
 
-    TAMPILAN APLIKASINYA:
-<img width="513" height="541" alt="Screenshot (1493)" src="https://github.com/user-attachments/assets/643cbd0f-5020-458c-921a-c8eae6689d56" />
-<img width="1220" height="971" alt="Screenshot (1494)" src="https://github.com/user-attachments/assets/ee8f5276-75fa-4222-8c4c-eb4fe29f9934" />
-<img width="1144" height="1017" alt="Screenshot (1495)" src="https://github.com/user-attachments/assets/aa54e3d6-2177-4295-b323-a279b4973faa" />
-<img width="1125" height="659" alt="Screenshot (1496)" src="https://github.com/user-attachments/assets/2522e82c-b227-4fe4-a31a-d57d53fbc263" />
-<img width="1205" height="536" alt="Screenshot (1497)" src="https://github.com/user-attachments/assets/7e4bb466-795a-474e-b8a0-eb8df6707485" />
-
-
-
-
-
-
-
-  
 
 Developed by: Hadad Al Tami
