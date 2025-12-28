@@ -20,16 +20,11 @@ Riwayat Pembayaran
 ![Riwayat Pembayaran](Screenshot%20(1497).png)
 
     Fitur
-- Sistem Otentikasi
-Fitur Login untuk memastikan keamanan akses aplikasi.
-- Kasir Digital
-Memfasilitasi pemilihan menu kopi (Caramel Latte, Amerricano, dsb.) dengan harga yang sudah terprogram.
-- Kalkulasi Diskon Otomatis
-Logika perhitungan otomatis untuk memberikan potongan harga (5% hingga 10%) berdasarkan ambang batas total belanja.
-- Manajemen Status Transaksi
-Membedakan antara pelanggan yang masih dalam antrean pembayaran dengan yang sudah menyelesaikan transaksi.
-- Rekapitulasi Penjualan
-Fitur melihat, mencari, dan mengelola data transaksi yang telah berhasil diproses.
+- Sistem Otentikasi: Fitur Login untuk memastikan keamanan akses aplikasi.
+- Kasir Digital: Memfasilitasi pemilihan menu kopi (Caramel Latte, Amerricano, dsb.) dengan harga yang sudah terprogram.
+- Kalkulasi Diskon Otomatis: Logika perhitungan otomatis untuk memberikan potongan harga (5% hingga 10%) berdasarkan ambang batas total belanja.
+- Manajemen Status Transaksi: Membedakan antara pelanggan yang masih dalam antrean pembayaran dengan yang sudah menyelesaikan transaksi.
+- Rekapitulasi Penjualan: Fitur melihat, mencari, dan mengelola data transaksi yang telah berhasil diproses.
 
     Teknologi & Library
 Bahasa Pemrograman: Java Swing.
